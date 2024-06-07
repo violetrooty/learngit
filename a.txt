@@ -1,3 +1,3 @@
 github.com
 
-show table
+show table dev
